@@ -1,0 +1,37 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2019.9.11-hecc5488_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/intel-openmp-2019.4-245.conda
+https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.16.27012-hf0eaf9b_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/mkl-2019.4-245.conda
+https://repo.anaconda.com/pkgs/main/win-64/vc-14.1-h0510ff6_4.conda
+https://conda.anaconda.org/conda-forge/win-64/icu-64.2-he025d50_1.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/jpeg-9c-hfa6e2cd_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libblas-3.8.0-12_mkl.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libclang-8.0.1-he980bc4_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libwebp-1.0.2-hfa6e2cd_2.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.8.3-he025d50_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/openssl-1.1.1c-hfa6e2cd_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.29.0-he774522_0.conda
+https://conda.anaconda.org/conda-forge/win-64/xz-5.2.4-h2fa13f4_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/zlib-1.2.11-h2fa13f4_1006.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libcblas-3.8.0-12_mkl.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/liblapack-3.8.0-12_mkl.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libpng-1.6.37-h7602738_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/python-3.7.4-h5263a28_0.conda
+https://conda.anaconda.org/conda-forge/win-64/zstd-1.4.0-hd8a0e53_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/certifi-2019.6.16-py37_1.conda
+https://conda.anaconda.org/conda-forge/win-64/freetype-2.10.0-h563cfd7_1.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/liblapacke-3.8.0-12_mkl.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/libtiff-4.0.10-h6512ee2_1003.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/numpy-1.15.4-py37h8078771_1002.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/qt-5.12.1-h444579a_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py37_0.conda
+https://conda.anaconda.org/conda-forge/win-64/libopencv-4.1.1-he03da11_3.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/setuptools-41.0.1-py37_0.conda
+https://conda.anaconda.org/conda-forge/win-64/py-opencv-4.1.1-py37h5ca1d4c_3.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/wheel-0.33.4-py37_0.conda
+https://conda.anaconda.org/conda-forge/win-64/opencv-4.1.1-3.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/pip-19.2.2-py37_0.conda
